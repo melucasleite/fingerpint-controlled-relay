@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Arduino/RemoteRelay"
+		},
+		{
+			"name": "240409-124611-nano_33_iot",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
